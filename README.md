@@ -1,4 +1,4 @@
-### :)
+### <p align="center">Greetings, and welcome to my GitHub page!</p>
 
 <img align="right" src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png"  width="350" height="350"/>
 
@@ -10,7 +10,7 @@
    <a href="https://github.com/thiagokrugel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokrugel&show_icons=true&theme=vue&include_all_commits=true"/>
    </a>
-   <a href="https://github.com/Reifhel">
+   <a href="https://github.com/thiagokrugel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokrugel&layout=compact&langs_count=8&theme=vue"/>
    </a>
 </div>
