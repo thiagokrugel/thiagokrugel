@@ -1,6 +1,6 @@
 ### :)
 
-<img align="right" src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png"  width="350" height="750"/>
+<img align="right" src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png"  width="350" height="350"/>
 
 <div align="left">
   
