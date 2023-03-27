@@ -1,6 +1,8 @@
 ### :)
 
-<div align="center">
+<img align="right" src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png"  width="350" height="750"/>
+
+<div align="left">
   
   <h3>
     Stats!
