@@ -3,7 +3,7 @@
 <div align="center">
   
   <h3>
-    Analytics:
+    Stats!
   </h3>
    <a href="https://github.com/thiagokrugel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokrugel&show_icons=true&theme=vue&include_all_commits=true"/>
