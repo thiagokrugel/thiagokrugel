@@ -6,7 +6,7 @@
     Analytics:
   </h3>
    <a href="https://github.com/thiagokrugel">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokrugel&theme=vue&show_icons=true&theme=vue&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokrugel&show_icons=true&theme=vue&include_all_commits=true"/>
    </a>
    <a href="https://github.com/Reifhel">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokrugel&layout=compact&langs_count=8&theme=vue"/>
